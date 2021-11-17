@@ -30,7 +30,7 @@ nav {
   padding: 0 2rem;
 }
 .credentials {
-  display: flex;
+  display: block;
 }
 .credentials p {
   font-size: 130%;
